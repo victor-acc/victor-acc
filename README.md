@@ -7,17 +7,20 @@ Building clean, scalable & well-structured backend systems 🚀
 
 ---
 
-##👨‍💻 About Me
-💻 Software developer focused on Backend development
-🧠 Strong experience with Node.js, JavaScript & SQL
-⚛️ Backend integration and API development supporting React applications
-🔗 Design and consumption of RESTful APIs
-🗂️ Backend code with clean, modular and easy-to-understand structure
-🎨 Working knowledge of HTML & CSS for frontend collaboration
-🧩 Experience with C# and understanding of multi-language environments
-🤝 Close collaboration with frontend teams to deliver complete solutions
-🌱 Continuous learning and professional growth
-- 📫 Contact: **coloradovictor24@gmail.com*
+
+## 👨‍💻 About Me
+
+* 💻 Software developer focused on **Backend development**
+* 🧠 Strong experience with **Node.js, JavaScript & SQL**
+* ⚛️ Backend integration and API development supporting **React applications**
+* 🔗 Design and consumption of **RESTful APIs**
+* 🗂️ Backend code with **clean, modular and easy-to-understand structure**
+* 🎨 Working knowledge of **HTML & CSS** for frontend collaboration
+* 🧩 Experience with **C#** and understanding of multi-language environments
+* 🤝 Close collaboration with frontend teams to deliver complete solutions
+* 🌱 Continuous learning and professional growth
+* 📫 Contact: **coloradovictor24@gmail.com*
+
 
 ---
 
