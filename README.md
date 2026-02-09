@@ -7,8 +7,7 @@ Building clean, scalable & well-structured backend systems 🚀
 
 ---
 
-👨‍💻 About Me
-
+##👨‍💻 About Me
 💻 Software developer focused on Backend development
 🧠 Strong experience with Node.js, JavaScript & SQL
 ⚛️ Backend integration and API development supporting React applications
