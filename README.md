@@ -39,7 +39,7 @@ Building clean, scalable & well-structured backend systems 🚀
 
 ## 🛠️ Technologies I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,java,git,github,mysql, vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,java,git,github,mysql,sqlserver,vscode&perline=7" />
 </p>
 
 ---
